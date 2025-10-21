@@ -190,7 +190,7 @@ const Index = () => {
             <div className="text-center mb-4 relative z-10">
               <div className="bg-gradient-to-br from-rose-100/80 to-pink-100/80 backdrop-blur-sm rounded-2xl p-4 border border-rose-200 shadow-inner">
                 <p className="text-gray-700 mb-3 text-xs md:text-sm leading-relaxed">
-                  Grandson of Mrs. & Late Mr. Rashid Husein Sayyad & Late Haji Mrs. & Mr. Sardarmiya Balabal Mulla
+                  Grandson of Mrs. & Late Mr. Rashid Husein Sayyad & Late Haji Mrs. & Mr. Sardarmiya Babalal Mulla
                 </p>
                 <h2 className="font-playfair text-2xl md:text-4xl text-rose-700 mb-3 tracking-wide">
                   Aman
