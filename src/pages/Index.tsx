@@ -205,10 +205,10 @@ const Index = () => {
                   </div>
                 </div>
                 <h2 className="font-playfair text-2xl md:text-4xl text-rose-700 mb-2 tracking-wide">
-                  Wajia
+                  Afroja
                 </h2>
                 <p className="text-gray-700 text-xs md:text-sm leading-relaxed">
-                  (D/o Late Mrs. & Mr. Jafanagir Shoukat Jamadar of Kawate Mahanandi)
+                  (D/o Late Mrs. & Mr. jahangir Shoukat Jamadar)
                 </p>
               </div>
             </div>
@@ -244,12 +244,12 @@ const Index = () => {
                 <div className="text-center mb-3">
                   <div className="flex items-center justify-center gap-1 mb-2">
                     <MapPin className="w-4 h-4 text-rose-600" />
-                    <p className="text-sm md:text-base font-semibold text-gray-800">SMT Hall</p>
+                    <p className="text-sm md:text-base font-semibold text-gray-800">SMJ Hall</p>
                   </div>
                   <p className="text-xs md:text-sm text-gray-700 leading-relaxed">
-                    P. Abdullah Hulloli Chowk<br/>
-                    Lowell Circle, 100 Footi Road<br/>
-                    Near Anandgiri, Abhimanagiri, Sangli
+                    P. Ahilyadevi Holkar Chowk<br/>
+                    Lovely Circle, 100 ft Road<br/>
+                    Near Anandpark, Abhaynagar, Sangli
                   </p>
                 </div>
                 <div className="w-full flex justify-center">
